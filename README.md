@@ -1,2 +1,2 @@
-# Lokono-Resources
+# Lokono- Religious Resources
 This is the largest corpus of text in the Lokono language.  Parts of the Bible in Lokono, almost 100% sure that the KJV was used to create this translation.  The Lokono translation was created in 1856, and therefore its copyright has expired, but the text was securely locked away in a repository that made it difficult to download.  I took the data and combined it with the original KJV and lined up each text so that anyone can translate it easily back and forth.
